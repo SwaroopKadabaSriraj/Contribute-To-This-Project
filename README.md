@@ -208,7 +208,7 @@ _Estimated time: Less than 30 minutes_.
 | :---------------------------------------- | ------------------------------------------------------------------------------------------------: |
 
 
-- After a few seconds the operation is complete and now you have exactly the same copy of this branch on your machine as well as on GitHub.
+- After a few seconds the operation is complete and now you have exactly the same copy of this branch on your machine as well as on GitHub!.
 
 ---
 
